@@ -33,4 +33,14 @@ python player.py
 python main.py
 ``` 
 
+- Write your youtube live chat this command
 
+```commandline
+!istek <song name>
+``` 
+
+- For skip song
+
+```commandline
+!atlat
+``` 
